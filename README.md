@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Vilar</h1>
-<h3 align="center">I’m interested in Business Intelligence and Databases</h3>
+<h3 align="center">I’m interested in Business Intelligence and Cloud</h3>
 
 - 🌱 I’m currently learning **SQL, Power BI and AWS**
 
