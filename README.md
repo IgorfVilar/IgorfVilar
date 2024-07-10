@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/igor-fons%C3%AAca-vilar-0624b1191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-fonsêca-vilar-0624b1191/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igor-fvilar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-fonsêca-vilar-0624b1191/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
