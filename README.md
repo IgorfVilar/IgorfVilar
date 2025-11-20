@@ -14,7 +14,7 @@
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40">
   </a>
-  h3 align="left"> </h3>
+  " "
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40">
   </a>
