@@ -10,10 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40">
@@ -35,7 +31,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40">
   </a>
 </p>
-
 
 
 
