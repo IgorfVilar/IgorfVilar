@@ -11,10 +11,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://powerbi.microsoft.com/" target="_blank">
+  <a href="https://powerbi.microsoft.com/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40">
   </a>
-  " "
+  
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40">
   </a>
